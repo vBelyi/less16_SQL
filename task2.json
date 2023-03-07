@@ -1,0 +1,644 @@
+[
+	{
+		"FIRST_NAME" : "Steven",
+		"LAST_NAME" : "King",
+		"SALARY" : 24000.00,
+		"TAX_VALUE" : 3600.0000
+	},
+	{
+		"FIRST_NAME" : "Neena",
+		"LAST_NAME" : "Kochhar",
+		"SALARY" : 17000.00,
+		"TAX_VALUE" : 2550.0000
+	},
+	{
+		"FIRST_NAME" : "Lex",
+		"LAST_NAME" : "De Haan",
+		"SALARY" : 17000.00,
+		"TAX_VALUE" : 2550.0000
+	},
+	{
+		"FIRST_NAME" : "Alexander",
+		"LAST_NAME" : "Hunold",
+		"SALARY" : 9000.00,
+		"TAX_VALUE" : 1350.0000
+	},
+	{
+		"FIRST_NAME" : "Bruce",
+		"LAST_NAME" : "Ernst",
+		"SALARY" : 6000.00,
+		"TAX_VALUE" : 900.0000
+	},
+	{
+		"FIRST_NAME" : "David",
+		"LAST_NAME" : "Austin",
+		"SALARY" : 4800.00,
+		"TAX_VALUE" : 720.0000
+	},
+	{
+		"FIRST_NAME" : "Valli",
+		"LAST_NAME" : "Pataballa",
+		"SALARY" : 4800.00,
+		"TAX_VALUE" : 720.0000
+	},
+	{
+		"FIRST_NAME" : "Diana",
+		"LAST_NAME" : "Lorentz",
+		"SALARY" : 4200.00,
+		"TAX_VALUE" : 630.0000
+	},
+	{
+		"FIRST_NAME" : "Nancy",
+		"LAST_NAME" : "Greenberg",
+		"SALARY" : 12000.00,
+		"TAX_VALUE" : 1800.0000
+	},
+	{
+		"FIRST_NAME" : "Daniel",
+		"LAST_NAME" : "Faviet",
+		"SALARY" : 9000.00,
+		"TAX_VALUE" : 1350.0000
+	},
+	{
+		"FIRST_NAME" : "John",
+		"LAST_NAME" : "Chen",
+		"SALARY" : 8200.00,
+		"TAX_VALUE" : 1230.0000
+	},
+	{
+		"FIRST_NAME" : "Ismael",
+		"LAST_NAME" : "Sciarra",
+		"SALARY" : 7700.00,
+		"TAX_VALUE" : 1155.0000
+	},
+	{
+		"FIRST_NAME" : "Jose Manuel",
+		"LAST_NAME" : "Urman",
+		"SALARY" : 7800.00,
+		"TAX_VALUE" : 1170.0000
+	},
+	{
+		"FIRST_NAME" : "Luis",
+		"LAST_NAME" : "Popp",
+		"SALARY" : 6900.00,
+		"TAX_VALUE" : 1035.0000
+	},
+	{
+		"FIRST_NAME" : "Den",
+		"LAST_NAME" : "Raphaely",
+		"SALARY" : 11000.00,
+		"TAX_VALUE" : 1650.0000
+	},
+	{
+		"FIRST_NAME" : "Alexander",
+		"LAST_NAME" : "Khoo",
+		"SALARY" : 3100.00,
+		"TAX_VALUE" : 465.0000
+	},
+	{
+		"FIRST_NAME" : "Shelli",
+		"LAST_NAME" : "Baida",
+		"SALARY" : 2900.00,
+		"TAX_VALUE" : 435.0000
+	},
+	{
+		"FIRST_NAME" : "Sigal",
+		"LAST_NAME" : "Tobias",
+		"SALARY" : 2800.00,
+		"TAX_VALUE" : 420.0000
+	},
+	{
+		"FIRST_NAME" : "Guy",
+		"LAST_NAME" : "Himuro",
+		"SALARY" : 2600.00,
+		"TAX_VALUE" : 390.0000
+	},
+	{
+		"FIRST_NAME" : "Karen",
+		"LAST_NAME" : "Colmenares",
+		"SALARY" : 2500.00,
+		"TAX_VALUE" : 375.0000
+	},
+	{
+		"FIRST_NAME" : "Matthew",
+		"LAST_NAME" : "Weiss",
+		"SALARY" : 8000.00,
+		"TAX_VALUE" : 1200.0000
+	},
+	{
+		"FIRST_NAME" : "Adam",
+		"LAST_NAME" : "Fripp",
+		"SALARY" : 8200.00,
+		"TAX_VALUE" : 1230.0000
+	},
+	{
+		"FIRST_NAME" : "Payam",
+		"LAST_NAME" : "Kaufling",
+		"SALARY" : 7900.00,
+		"TAX_VALUE" : 1185.0000
+	},
+	{
+		"FIRST_NAME" : "Shanta",
+		"LAST_NAME" : "Vollman",
+		"SALARY" : 6500.00,
+		"TAX_VALUE" : 975.0000
+	},
+	{
+		"FIRST_NAME" : "Kevin",
+		"LAST_NAME" : "Mourgos",
+		"SALARY" : 5800.00,
+		"TAX_VALUE" : 870.0000
+	},
+	{
+		"FIRST_NAME" : "Julia",
+		"LAST_NAME" : "Nayer",
+		"SALARY" : 3200.00,
+		"TAX_VALUE" : 480.0000
+	},
+	{
+		"FIRST_NAME" : "Irene",
+		"LAST_NAME" : "Mikkilineni",
+		"SALARY" : 2700.00,
+		"TAX_VALUE" : 405.0000
+	},
+	{
+		"FIRST_NAME" : "James",
+		"LAST_NAME" : "Landry",
+		"SALARY" : 2400.00,
+		"TAX_VALUE" : 360.0000
+	},
+	{
+		"FIRST_NAME" : "Steven",
+		"LAST_NAME" : "Markle",
+		"SALARY" : 2200.00,
+		"TAX_VALUE" : 330.0000
+	},
+	{
+		"FIRST_NAME" : "Laura",
+		"LAST_NAME" : "Bissot",
+		"SALARY" : 3300.00,
+		"TAX_VALUE" : 495.0000
+	},
+	{
+		"FIRST_NAME" : "Mozhe",
+		"LAST_NAME" : "Atkinson",
+		"SALARY" : 2800.00,
+		"TAX_VALUE" : 420.0000
+	},
+	{
+		"FIRST_NAME" : "James",
+		"LAST_NAME" : "Marlow",
+		"SALARY" : 2500.00,
+		"TAX_VALUE" : 375.0000
+	},
+	{
+		"FIRST_NAME" : "TJ",
+		"LAST_NAME" : "Olson",
+		"SALARY" : 2100.00,
+		"TAX_VALUE" : 315.0000
+	},
+	{
+		"FIRST_NAME" : "Jason",
+		"LAST_NAME" : "Mallin",
+		"SALARY" : 3300.00,
+		"TAX_VALUE" : 495.0000
+	},
+	{
+		"FIRST_NAME" : "Michael",
+		"LAST_NAME" : "Rogers",
+		"SALARY" : 2900.00,
+		"TAX_VALUE" : 435.0000
+	},
+	{
+		"FIRST_NAME" : "Ki",
+		"LAST_NAME" : "Gee",
+		"SALARY" : 2400.00,
+		"TAX_VALUE" : 360.0000
+	},
+	{
+		"FIRST_NAME" : "Hazel",
+		"LAST_NAME" : "Philtanker",
+		"SALARY" : 2200.00,
+		"TAX_VALUE" : 330.0000
+	},
+	{
+		"FIRST_NAME" : "Renske",
+		"LAST_NAME" : "Ladwig",
+		"SALARY" : 3600.00,
+		"TAX_VALUE" : 540.0000
+	},
+	{
+		"FIRST_NAME" : "Stephen",
+		"LAST_NAME" : "Stiles",
+		"SALARY" : 3200.00,
+		"TAX_VALUE" : 480.0000
+	},
+	{
+		"FIRST_NAME" : "John",
+		"LAST_NAME" : "Seo",
+		"SALARY" : 2700.00,
+		"TAX_VALUE" : 405.0000
+	},
+	{
+		"FIRST_NAME" : "Joshua",
+		"LAST_NAME" : "Patel",
+		"SALARY" : 2500.00,
+		"TAX_VALUE" : 375.0000
+	},
+	{
+		"FIRST_NAME" : "Trenna",
+		"LAST_NAME" : "Rajs",
+		"SALARY" : 3500.00,
+		"TAX_VALUE" : 525.0000
+	},
+	{
+		"FIRST_NAME" : "Curtis",
+		"LAST_NAME" : "Davies",
+		"SALARY" : 3100.00,
+		"TAX_VALUE" : 465.0000
+	},
+	{
+		"FIRST_NAME" : "Randall",
+		"LAST_NAME" : "Matos",
+		"SALARY" : 2600.00,
+		"TAX_VALUE" : 390.0000
+	},
+	{
+		"FIRST_NAME" : "Peter",
+		"LAST_NAME" : "Vargas",
+		"SALARY" : 2500.00,
+		"TAX_VALUE" : 375.0000
+	},
+	{
+		"FIRST_NAME" : "John",
+		"LAST_NAME" : "Russell",
+		"SALARY" : 14000.00,
+		"TAX_VALUE" : 2100.0000
+	},
+	{
+		"FIRST_NAME" : "Karen",
+		"LAST_NAME" : "Partners",
+		"SALARY" : 13500.00,
+		"TAX_VALUE" : 2025.0000
+	},
+	{
+		"FIRST_NAME" : "Alberto",
+		"LAST_NAME" : "Errazuriz",
+		"SALARY" : 12000.00,
+		"TAX_VALUE" : 1800.0000
+	},
+	{
+		"FIRST_NAME" : "Gerald",
+		"LAST_NAME" : "Cambrault",
+		"SALARY" : 11000.00,
+		"TAX_VALUE" : 1650.0000
+	},
+	{
+		"FIRST_NAME" : "Eleni",
+		"LAST_NAME" : "Zlotkey",
+		"SALARY" : 10500.00,
+		"TAX_VALUE" : 1575.0000
+	},
+	{
+		"FIRST_NAME" : "Peter",
+		"LAST_NAME" : "Tucker",
+		"SALARY" : 10000.00,
+		"TAX_VALUE" : 1500.0000
+	},
+	{
+		"FIRST_NAME" : "David",
+		"LAST_NAME" : "Bernstein",
+		"SALARY" : 9500.00,
+		"TAX_VALUE" : 1425.0000
+	},
+	{
+		"FIRST_NAME" : "Peter",
+		"LAST_NAME" : "Hall",
+		"SALARY" : 9000.00,
+		"TAX_VALUE" : 1350.0000
+	},
+	{
+		"FIRST_NAME" : "Christopher",
+		"LAST_NAME" : "Olsen",
+		"SALARY" : 8000.00,
+		"TAX_VALUE" : 1200.0000
+	},
+	{
+		"FIRST_NAME" : "Nanette",
+		"LAST_NAME" : "Cambrault",
+		"SALARY" : 7500.00,
+		"TAX_VALUE" : 1125.0000
+	},
+	{
+		"FIRST_NAME" : "Oliver",
+		"LAST_NAME" : "Tuvault",
+		"SALARY" : 7000.00,
+		"TAX_VALUE" : 1050.0000
+	},
+	{
+		"FIRST_NAME" : "Janette",
+		"LAST_NAME" : "King",
+		"SALARY" : 10000.00,
+		"TAX_VALUE" : 1500.0000
+	},
+	{
+		"FIRST_NAME" : "Patrick",
+		"LAST_NAME" : "Sully",
+		"SALARY" : 9500.00,
+		"TAX_VALUE" : 1425.0000
+	},
+	{
+		"FIRST_NAME" : "Allan",
+		"LAST_NAME" : "McEwen",
+		"SALARY" : 9000.00,
+		"TAX_VALUE" : 1350.0000
+	},
+	{
+		"FIRST_NAME" : "Lindsey",
+		"LAST_NAME" : "Smith",
+		"SALARY" : 8000.00,
+		"TAX_VALUE" : 1200.0000
+	},
+	{
+		"FIRST_NAME" : "Louise",
+		"LAST_NAME" : "Doran",
+		"SALARY" : 7500.00,
+		"TAX_VALUE" : 1125.0000
+	},
+	{
+		"FIRST_NAME" : "Sarath",
+		"LAST_NAME" : "Sewall",
+		"SALARY" : 7000.00,
+		"TAX_VALUE" : 1050.0000
+	},
+	{
+		"FIRST_NAME" : "Clara",
+		"LAST_NAME" : "Vishney",
+		"SALARY" : 10500.00,
+		"TAX_VALUE" : 1575.0000
+	},
+	{
+		"FIRST_NAME" : "Danielle",
+		"LAST_NAME" : "Greene",
+		"SALARY" : 9500.00,
+		"TAX_VALUE" : 1425.0000
+	},
+	{
+		"FIRST_NAME" : "Mattea",
+		"LAST_NAME" : "Marvins",
+		"SALARY" : 7200.00,
+		"TAX_VALUE" : 1080.0000
+	},
+	{
+		"FIRST_NAME" : "David",
+		"LAST_NAME" : "Lee",
+		"SALARY" : 6800.00,
+		"TAX_VALUE" : 1020.0000
+	},
+	{
+		"FIRST_NAME" : "Sundar",
+		"LAST_NAME" : "Ande",
+		"SALARY" : 6400.00,
+		"TAX_VALUE" : 960.0000
+	},
+	{
+		"FIRST_NAME" : "Amit",
+		"LAST_NAME" : "Banda",
+		"SALARY" : 6200.00,
+		"TAX_VALUE" : 930.0000
+	},
+	{
+		"FIRST_NAME" : "Lisa",
+		"LAST_NAME" : "Ozer",
+		"SALARY" : 11500.00,
+		"TAX_VALUE" : 1725.0000
+	},
+	{
+		"FIRST_NAME" : "Harrison",
+		"LAST_NAME" : "Bloom",
+		"SALARY" : 10000.00,
+		"TAX_VALUE" : 1500.0000
+	},
+	{
+		"FIRST_NAME" : "Tayler",
+		"LAST_NAME" : "Fox",
+		"SALARY" : 9600.00,
+		"TAX_VALUE" : 1440.0000
+	},
+	{
+		"FIRST_NAME" : "William",
+		"LAST_NAME" : "Smith",
+		"SALARY" : 7400.00,
+		"TAX_VALUE" : 1110.0000
+	},
+	{
+		"FIRST_NAME" : "Elizabeth",
+		"LAST_NAME" : "Bates",
+		"SALARY" : 7300.00,
+		"TAX_VALUE" : 1095.0000
+	},
+	{
+		"FIRST_NAME" : "Sundita",
+		"LAST_NAME" : "Kumar",
+		"SALARY" : 6100.00,
+		"TAX_VALUE" : 915.0000
+	},
+	{
+		"FIRST_NAME" : "Ellen",
+		"LAST_NAME" : "Abel",
+		"SALARY" : 11000.00,
+		"TAX_VALUE" : 1650.0000
+	},
+	{
+		"FIRST_NAME" : "Alyssa",
+		"LAST_NAME" : "Hutton",
+		"SALARY" : 8800.00,
+		"TAX_VALUE" : 1320.0000
+	},
+	{
+		"FIRST_NAME" : "Jonathon",
+		"LAST_NAME" : "Taylor",
+		"SALARY" : 8600.00,
+		"TAX_VALUE" : 1290.0000
+	},
+	{
+		"FIRST_NAME" : "Jack",
+		"LAST_NAME" : "Livingston",
+		"SALARY" : 8400.00,
+		"TAX_VALUE" : 1260.0000
+	},
+	{
+		"FIRST_NAME" : "Kimberely",
+		"LAST_NAME" : "Grant",
+		"SALARY" : 7000.00,
+		"TAX_VALUE" : 1050.0000
+	},
+	{
+		"FIRST_NAME" : "Charles",
+		"LAST_NAME" : "Johnson",
+		"SALARY" : 6200.00,
+		"TAX_VALUE" : 930.0000
+	},
+	{
+		"FIRST_NAME" : "Winston",
+		"LAST_NAME" : "Taylor",
+		"SALARY" : 3200.00,
+		"TAX_VALUE" : 480.0000
+	},
+	{
+		"FIRST_NAME" : "Jean",
+		"LAST_NAME" : "Fleaur",
+		"SALARY" : 3100.00,
+		"TAX_VALUE" : 465.0000
+	},
+	{
+		"FIRST_NAME" : "Martha",
+		"LAST_NAME" : "Sullivan",
+		"SALARY" : 2500.00,
+		"TAX_VALUE" : 375.0000
+	},
+	{
+		"FIRST_NAME" : "Girard",
+		"LAST_NAME" : "Geoni",
+		"SALARY" : 2800.00,
+		"TAX_VALUE" : 420.0000
+	},
+	{
+		"FIRST_NAME" : "Nandita",
+		"LAST_NAME" : "Sarchand",
+		"SALARY" : 4200.00,
+		"TAX_VALUE" : 630.0000
+	},
+	{
+		"FIRST_NAME" : "Alexis",
+		"LAST_NAME" : "Bull",
+		"SALARY" : 4100.00,
+		"TAX_VALUE" : 615.0000
+	},
+	{
+		"FIRST_NAME" : "Julia",
+		"LAST_NAME" : "Dellinger",
+		"SALARY" : 3400.00,
+		"TAX_VALUE" : 510.0000
+	},
+	{
+		"FIRST_NAME" : "Anthony",
+		"LAST_NAME" : "Cabrio",
+		"SALARY" : 3000.00,
+		"TAX_VALUE" : 450.0000
+	},
+	{
+		"FIRST_NAME" : "Kelly",
+		"LAST_NAME" : "Chung",
+		"SALARY" : 3800.00,
+		"TAX_VALUE" : 570.0000
+	},
+	{
+		"FIRST_NAME" : "Jennifer",
+		"LAST_NAME" : "Dilly",
+		"SALARY" : 3600.00,
+		"TAX_VALUE" : 540.0000
+	},
+	{
+		"FIRST_NAME" : "Timothy",
+		"LAST_NAME" : "Gates",
+		"SALARY" : 2900.00,
+		"TAX_VALUE" : 435.0000
+	},
+	{
+		"FIRST_NAME" : "Randall",
+		"LAST_NAME" : "Perkins",
+		"SALARY" : 2500.00,
+		"TAX_VALUE" : 375.0000
+	},
+	{
+		"FIRST_NAME" : "Sarah",
+		"LAST_NAME" : "Bell",
+		"SALARY" : 4000.00,
+		"TAX_VALUE" : 600.0000
+	},
+	{
+		"FIRST_NAME" : "Britney",
+		"LAST_NAME" : "Everett",
+		"SALARY" : 3900.00,
+		"TAX_VALUE" : 585.0000
+	},
+	{
+		"FIRST_NAME" : "Samuel",
+		"LAST_NAME" : "McCain",
+		"SALARY" : 3200.00,
+		"TAX_VALUE" : 480.0000
+	},
+	{
+		"FIRST_NAME" : "Vance",
+		"LAST_NAME" : "Jones",
+		"SALARY" : 2800.00,
+		"TAX_VALUE" : 420.0000
+	},
+	{
+		"FIRST_NAME" : "Alana",
+		"LAST_NAME" : "Walsh",
+		"SALARY" : 3100.00,
+		"TAX_VALUE" : 465.0000
+	},
+	{
+		"FIRST_NAME" : "Kevin",
+		"LAST_NAME" : "Feeney",
+		"SALARY" : 3000.00,
+		"TAX_VALUE" : 450.0000
+	},
+	{
+		"FIRST_NAME" : "Donald",
+		"LAST_NAME" : "OConnell",
+		"SALARY" : 2600.00,
+		"TAX_VALUE" : 390.0000
+	},
+	{
+		"FIRST_NAME" : "Douglas",
+		"LAST_NAME" : "Grant",
+		"SALARY" : 2600.00,
+		"TAX_VALUE" : 390.0000
+	},
+	{
+		"FIRST_NAME" : "Jennifer",
+		"LAST_NAME" : "Whalen",
+		"SALARY" : 4400.00,
+		"TAX_VALUE" : 660.0000
+	},
+	{
+		"FIRST_NAME" : "Michael",
+		"LAST_NAME" : "Hartstein",
+		"SALARY" : 13000.00,
+		"TAX_VALUE" : 1950.0000
+	},
+	{
+		"FIRST_NAME" : "Pat",
+		"LAST_NAME" : "Fay",
+		"SALARY" : 6000.00,
+		"TAX_VALUE" : 900.0000
+	},
+	{
+		"FIRST_NAME" : "Susan",
+		"LAST_NAME" : "Mavris",
+		"SALARY" : 6500.00,
+		"TAX_VALUE" : 975.0000
+	},
+	{
+		"FIRST_NAME" : "Hermann",
+		"LAST_NAME" : "Baer",
+		"SALARY" : 10000.00,
+		"TAX_VALUE" : 1500.0000
+	},
+	{
+		"FIRST_NAME" : "Shelley",
+		"LAST_NAME" : "Higgins",
+		"SALARY" : 12000.00,
+		"TAX_VALUE" : 1800.0000
+	},
+	{
+		"FIRST_NAME" : "William",
+		"LAST_NAME" : "Gietz",
+		"SALARY" : 8300.00,
+		"TAX_VALUE" : 1245.0000
+	}
+]
